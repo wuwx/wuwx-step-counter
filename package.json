@@ -1,10 +1,10 @@
 {
   "id": "wuwx-step-counter",
-  "displayName": "wuwx-step-counter",
-  "version": "1.0.0",
-  "description": "wuwx-step-counter",
+  "displayName": "计步器（兼容Android和iOS）",
+  "version": "0.2.0",
+  "description": "基于UTS实现，兼容Android和iOS的计步器插件",
   "keywords": [
-    "wuwx-step-counter"
+    "计步器 计步 步数"
 ],
   "repository": "",
   "engines": {
@@ -21,12 +21,12 @@
       }
     },
     "contact": {
-      "qq": ""
+      "qq": "11990950"
     },
     "declaration": {
-      "ads": "",
-      "data": "",
-      "permissions": ""
+      "ads": "无",
+      "data": "插件不采集任何数据",
+      "permissions": "运动与健身"
     },
     "npmurl": ""
   },
@@ -40,12 +40,12 @@
       },
       "client": {
         "Vue": {
-          "vue2": "u",
-          "vue3": "u"
+          "vue2": "y",
+          "vue3": "y"
         },
         "App": {
-          "app-android": "u",
-          "app-ios": "u"
+          "app-android": "y",
+          "app-ios": "y"
         },
         "H5-mobile": {
           "Safari": "u",
