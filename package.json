@@ -4,7 +4,9 @@
   "version": "0.2.0",
   "description": "基于UTS实现，兼容Android和iOS的计步器插件",
   "keywords": [
-    "计步器 计步 步数"
+    "计步器",
+    "计步",
+    "步数"
 ],
   "repository": "",
   "engines": {
@@ -35,8 +37,8 @@
     "encrypt": [],
     "platforms": {
       "cloud": {
-        "tcb": "u",
-        "aliyun": "u"
+        "tcb": "y",
+        "aliyun": "y"
       },
       "client": {
         "Vue": {
